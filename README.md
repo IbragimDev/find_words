@@ -1,2 +1,1 @@
-# find_words
-Find words 
+A convenient program for learning English
